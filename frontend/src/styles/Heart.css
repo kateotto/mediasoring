@@ -1,0 +1,46 @@
+
+.LikePost{
+    display: inherit;
+}
+
+.heart{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 25px;
+    width: 45px;
+    position: relative;
+    left: -50%;
+    display: flex;
+    background: #ff3e3e;
+    transition: 1s;
+    transform-origin: right bottom;
+    
+    border: none;
+
+    transform: rotate(45deg);
+    border-top-left-radius: 50px; 
+   border-bottom-left-radius: 50px;
+   animation: mymove 1s infinite;
+  
+}
+
+.heart:before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #dd2e2e;
+    transition: 2s;
+    transform: rotate(450deg) translateY(25px);
+    transform-origin: right bottom;
+     border-top-left-radius: 50px; 
+   border-bottom-left-radius: 50px;
+   
+   
+    
+}
+
+@keyframes mymove {
+    
+    to {transform: scale(0.75, 0.75) rotate(45deg); }
+}

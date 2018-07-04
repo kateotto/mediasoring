@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+#contentInfluenceProfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+   padding-bottom: 20px;
+   background-color: #fff;
+}
+
+.user_about{ 
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+  
+}
+.user_about fieldset{
+    padding: 10px;
+    margin: 30px;
+    width: 60%;
+}
+.user_about legend{
+    padding: 10px;
+}
+
+.influenceAvatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+   
+    margin-top: 50px;
+}
+
+#first_last_name{
+    font-size: 1.5rem;
+    font-weight: 900;
+}

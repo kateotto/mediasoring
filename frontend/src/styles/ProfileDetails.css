@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+#profileDetailsContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.user_info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.user_info h1, h2, h3{
+    text-align: center;
+   margin-left: 100px;
+}
+
+.user_info_avatar{
+    padding-top: 20px;
+   
+    background-color: #fff;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+ }
+ 
+ .user_info_avatar img{
+     border-radius: 50%;
+     width: 100%;
+     height: 100%;
+ }
+
+ input[type=text], input[type=password], input[type=email]{
+    font-size: 20px;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    font-family: 'Merriweather', serif;
+    margin-bottom: 10px;
+}
+
+input[type=text]:focus{
+    border: 1px solid #0007D8;
+}
+
+ input[type=submit]{
+    border: 0.5px solid #0007d8;
+    background-color: transparent;
+    border-radius: 30px;
+    padding: 10px;
+    width: 50%;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+   
+}
+
+.submit{
+    margin-left: 100px;
+}
+
+input[type="file"] {
+    display: none;    
+}
+
+label:not(.custom-file-upload){
+    border: none;
+    display: inline-block;
+    width: 80px;
+    
+}
+
+.label{
+
+    padding-right: 30px;
+    text-align: left;
+}
+.current-data{
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    
+}
+
+.custom-file-upload {
+    display: inline-block;
+    text-align: center;
+    padding: 6px 12px;
+    cursor: pointer;
+    width: 50%;
+    padding: 10px;
+   
+}
+
+#upload-file{
+    margin-left: 100px;
+}
+textarea{
+    resize: none;
+}
+
+.user_info_section{
+    width: 65%;
+    margin-left: 20px;
+}
+
+#user_info_field{
+    padding: 30px;
+    text-align: justify;
+}
+
+#user_info_field legend{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.passChngText{
+    margin-left: 100px;
+}

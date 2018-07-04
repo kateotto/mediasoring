@@ -1,0 +1,25 @@
+#FollowUser{
+    background: transparent;
+    border-radius: 20px;
+    border: 1px solid #00078b;
+    outline: none;
+    padding: 25px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+#UnfollowUser{
+    background: transparent;
+    border-radius: 20px;
+    border: 1px solid #00078b;
+    outline: none;
+    padding: 10px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+#UnfollowUser::after{
+    content: '\2713';
+    font-size: 40px;
+    color: green;
+}

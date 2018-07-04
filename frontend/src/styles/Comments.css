@@ -1,0 +1,29 @@
+#commentsContainer{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    background: #edf3f4;
+}
+
+#commentsPlace{
+    background: #fff;
+    width: 80%;
+}
+
+#textArea{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+input[type='submit']{
+    margin-bottom: 20px;
+}
+
+.hidden{
+    display: none;
+}
+
+.show{
+    display: flex;
+}

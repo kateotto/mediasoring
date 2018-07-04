@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+.addPostBody{
+    background-color: #edf3f4;
+    display: flex;
+    text-align: center;
+    align-content: center;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.addPostContainer{
+    background-color: #fff;
+    
+    width: 85%;
+
+    display: flex;
+    text-align: center;
+    align-content: center;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 15px;
+    margin-top: 100px;
+    outline: none;
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+input[type=text]{
+    font-size: 20px;
+    height: auto;
+    width: 60%;
+    padding: 10px;
+    font-family: 'Merriweather', serif;
+  
+}
+
+input[type=text]:focus{
+    border: 1px solid #0007D8;
+}
+
+textarea{
+    width: 60%;
+    height: auto;
+    padding: 10px;
+    text-align: justify;
+    
+   
+}
+
+textarea:focus{
+    border: 1px solid #0007D8;   
+}
+
+select{
+    outline: none;
+    border: 0.5px solid #0007d8;
+    width: 20%;
+    padding: 10px;
+    border-radius: 30px;
+    cursor: pointer;
+    
+}
+
+input[type=submit]{
+    border: 0.5px solid #0007d8;
+    background-color: transparent;
+    border-radius: 30px;
+    padding: 10px;
+    width: 20%;
+    outline: none;
+    cursor: pointer;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+   
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+label{
+    font-size: 20px;
+    width: 20%;
+    border: 0.5px solid #0007D8;
+    padding: 10px;
+    border-radius: 30px;
+}

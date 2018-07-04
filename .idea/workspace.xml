@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d425a910-8fa9-463f-bfbf-3922b131a64c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/shanghai.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/public/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/App.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/App.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/actions/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/actions/userActions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/AddPost.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/Discover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/FilterContent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/FollowButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/GuestComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/Heart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/LoginForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/Logout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/Modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/Navbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/PostsComponents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/ProfileBlock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/ProfileDetails.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/RegisterForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/SideMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/components/UserPresentation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/reducers/rootReducer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/reducers/userReducer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/registerServiceWorker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/stores/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/stores/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/AddPost.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/App.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/CarouselComponent.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/Comments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/Discover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/FilterContent.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/FollowButton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/GuestComponent.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/Heart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/Logout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/PostsComponents.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/ProfileBlock.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/ProfileDetails.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/SideMenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/UserPresentation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/navStyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/src/styles/toggleMenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/yarn.lock" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/users/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/env/Lib/site-packages/rest_auth/registration/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/env/Lib/site-packages/rest_auth/registration/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d425a910-8fa9-463f-bfbf-3922b131a64c" name="Default" comment="" />
+      <created>1530176213581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530176213581</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16181915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env/Lib/site-packages/rest_auth/registration/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env/Lib/site-packages/rest_auth/registration/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="199" column="6" lean-forward="true" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env/Lib/site-packages/rest_auth/registration/app_settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env/Lib/site-packages/rest_auth/registration/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

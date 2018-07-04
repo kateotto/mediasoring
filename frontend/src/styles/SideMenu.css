@@ -1,0 +1,24 @@
+.toggleButton{
+    height: 65px;
+    width: 65px;
+    background-color: #0007D8;
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    border-radius: 50px;
+    padding: 0;
+    margin: 0 auto;
+    box-shadow: 5px 5px 30px #000;
+   
+}
+
+.toggleButton:hover{
+    cursor: pointer;
+}
+.toggleButtonContainer{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 30px;
+}
+

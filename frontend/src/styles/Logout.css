@@ -1,0 +1,8 @@
+.logoutBtn{
+    color: white;
+    font-size: 30px;
+}
+
+.logoutBtn:hover{
+    cursor: pointer;
+}
